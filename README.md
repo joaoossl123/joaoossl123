@@ -35,5 +35,8 @@
 - 💻
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joaoossl123&style=flat-square&color=blue" alt="Contador de Visitas"/>
+</p>
 
 <p align="center">✨ Sempre subindo mais um degrau na escada do conhecimento! ✨</p>
