@@ -2,7 +2,7 @@
 
 <p align="center">
 💻 Estudante de Análise e Desenvolvimento de Sistemas <br>
-🚀 Apaixonado por tecnologia, programação e desenvolvimento de sistemas <br>
+🚀 Apaixonado por tecnologia e desenvolvimento de sistemas <br>
 🎯 Sempre buscando aprender, evoluir e compartilhar conhecimento <br>
 </p>
 
@@ -31,7 +31,8 @@
 ## 📫 Contato
 
 - ✉️ **joaombarbosa18@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-marcos-oliveira-84032a235/)
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-marcos-oliveira-84032a235/)
+
 - 💻
 
 ---
