@@ -23,9 +23,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" />
 </div>
 
@@ -34,8 +31,8 @@
 ## 📫 Contato
 
 - ✉️ **joaombarbosa18@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-marcos-oliveira-84032a235/) *(coloque seu link)*  
-- 💻 *[Portfólio (se tiver)](https://) (opcional)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-marcos-oliveira-84032a235/)
+- 💻
 
 ---
 
