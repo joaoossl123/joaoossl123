@@ -2,7 +2,7 @@
 
 <p align="center">
 💻 Estudante de Análise e Desenvolvimento de Sistemas <br>
-🚀 Apaixonado por tecnologia e desenvolvimento de sistemas <br>
+🚀 Gosto de tecnologia e desenvolvimento de sistemas <br>
 🎯 Sempre buscando aprender, evoluir e compartilhar conhecimento <br>
 </p>
 
