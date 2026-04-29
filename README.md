@@ -31,35 +31,35 @@
 
 ## 📊 GitHub Stats (REAL)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=tokyonight\&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoossl123\&show_icons=true\&theme=tokyonight\&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoossl123\&layout=compact\&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=SEU_USUARIO\&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=joaoossl123\&theme=tokyonight)
 
 ---
 
 ## 🏆 Conquistas
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=SEU_USUARIO\&theme=tokyonight\&no-frame=true\&no-bg=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=joaoossl123\&theme=tokyonight\&no-frame=true\&no-bg=true)
 
 ---
 
 ## 📊 Atividade
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO\&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaoossl123\&theme=tokyo-night)
 
 ---
 
 ## 🌐 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/seu-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/joaombarbosa18/)
 
 ---
 
 ## 👀 Visualizações
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=SEU_USUARIO\&icon=5\&color=6)
+![Visitor Count](https://visitcount.itsvg.in/api?id=joaoossl123\&icon=5\&color=6)
 
 
 ---
