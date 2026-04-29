@@ -59,7 +59,7 @@
 
 ## 👀 Visualizações
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=joaoossl123\&icon=5\&color=6)
+![Profile Views](https://komarev.com/ghpvc/?username=joaoossl123&label=Visualizações&color=0e75b6&style=flat)
 
 
 ---
